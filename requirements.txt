@@ -1,0 +1,13 @@
+pywin32<226
+numpy
+scipy
+Pillow
+cython
+matplotlib
+scikit-image
+tensorflow<2.0
+keras==2.1.6
+opencv-python
+h5py
+imgaug
+IPython[all]
